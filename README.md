@@ -21,3 +21,7 @@ Delete Bucket – Delete a specified S3 bucket
 Set Bucket Policy – Apply a custom policy to an S3 bucket
 
 This agent uses AWS STS to assume a role and access AWS securely.
+
+This agent will be expanded to support more AWS services, making it a powerful assistant for AWS DevOps and developers.
+
+In the future, this agent can also be converted into a Model Context Protocol (MCP) server for use with multi-agent systems or external MCP clients.
